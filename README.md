@@ -1,6 +1,6 @@
 #  Frontend Mentor - Página inicial do Huddle com uma única seção introdutória
 
-![ Visualização do design para a página inicial do Huddle com uma única seção introdutória ](./design/desktop-preview.jpg)
+![ Visualização do design para a página inicial do Huddle com uma única seção introdutória ](./src/images/desktop-view.png)
 
 ##  Bem-vindo! 👋
 
